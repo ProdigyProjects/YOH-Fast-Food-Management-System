@@ -2,8 +2,4 @@
 **Database Name: onlinefoodphp**
 
 
-**Admin Login Details**
-
-Username: admin
-Password: codeastro
 
