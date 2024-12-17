@@ -3,17 +3,28 @@
 ## 📝 Project Overview
 YOH! Fast Food is a web-based application designed to streamline fast food restaurant operations. It provides users with an intuitive interface to browse menus, place orders, and manage restaurant operations effectively. The system also includes administrative tools for managing restaurants, dishes, and customer orders.
 
+![Homepage Screenshot](images/homepage.png)
+_The homepage showcasing the restaurant menu and navigation options._
+
 ---
 
 ## 🌟 Features
 
 ### User Features:
-- User registration and login system.
-- Browse restaurant menus and dishes.
-- Place orders and view order history.
+- User registration and login system:
+  ![Login Screenshot](images/login.png)
+  _Login page for users and admins._
+- Browse restaurant menus and dishes:
+  ![Menu Screenshot](images/menu.png)
+  _Menu page displaying restaurant dishes._
+- Place orders and view order history:
+  ![Order Screenshot](images/order.png)
+  _Order placement screen with item details and checkout button._
 
 ### Admin Features:
-- Add, edit, and delete restaurants and dishes.
+- Add, edit, and delete restaurants and dishes:
+  ![Admin Dashboard Screenshot](images/admin_dashboard.png)
+  _Admin dashboard for managing restaurants and dishes._
 - View and manage customer orders.
 
 ### Core Functionalities:
@@ -45,6 +56,8 @@ YOH! Fast Food is a web-based application designed to streamline fast food resta
    - Open `phpMyAdmin`.
    - Create a new database (e.g., `yoh_fast_food`).
    - Import the `.sql` file located in the `DATABASE FILE` folder.
+   ![Database Structure Screenshot](images/database.png)
+   _Database structure in phpMyAdmin._
 4. **Configure the database connection**:
    - Edit the connection file in the project directory.
    - Update the database name, username, and password to match your setup.
